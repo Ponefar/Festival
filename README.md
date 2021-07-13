@@ -2,7 +2,7 @@ Projet Festival dans le cadre du CDA : https://www.montpellier-meilleur-ville.si
 
 BDD format sql à mettre dans votre BDD en local ou en ligne
 
-Pour la connexion à la BDD, rajoutez un fichier bdd.php dans le dossier connexionBdd et remplacer les X par vos informations :
+Pour la connexion à la BDD, rajoutez un fichier bdd.php dans le dossier connexion_bdd du dossier memory_admin et memory_admin_en et remplacer les X par vos informations :
 
 $utilisateur = "X";
 $mdp = "X";
