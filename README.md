@@ -8,3 +8,8 @@ $utilisateur = "X";
 $mdp = "X";
 $bdd = new PDO('mysql:host=X.mysql.db;dbname=X', $utilisateur, $mdp);
 $bdd->exec('SET NAMES utf8');
+
+
+Connexion en tant qu'administrateur : https://www.montpellier-meilleur-ville.site/memory_admin
+Nom : adminCdaWis
+MDP : aa
