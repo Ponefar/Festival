@@ -12,7 +12,7 @@ $bdd->exec('SET NAMES utf8');
 
 Connexion au back office : https://www.montpellier-meilleur-ville.site/memory_admin
 
-Connexion en tant que super Admin :
+Connexion en tant que super Admin : (il peut supprimer / ajouter de nouveaux administrateurs)
 
 Nom : adminCdaWis
 
