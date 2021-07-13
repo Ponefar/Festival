@@ -10,9 +10,16 @@ $bdd = new PDO('mysql:host=X.mysql.db;dbname=X', $utilisateur, $mdp);
 $bdd->exec('SET NAMES utf8');
 
 
-Connexion en tant qu'administrateur : https://www.montpellier-meilleur-ville.site/memory_admin
+Connexion au back office : https://www.montpellier-meilleur-ville.site/memory_admin
 
+Connexion en tant que super Admin :
 
 Nom : adminCdaWis
+
+MDP : aa
+
+Connexion en tant qu'Admin :
+
+Nom : adrien
 
 MDP : aa
